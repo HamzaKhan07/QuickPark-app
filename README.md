@@ -42,16 +42,29 @@ user get a clear picture of which slots are occupied and which slots are free.
 
 
 ## 📷 Screenshots
-
-![App Screenshot](https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/cover.png?raw=true)
-
-![App Screenshot](https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen1.png?raw=true)
-
-![App Screenshot](https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen2.png?raw=true)
-
-![App Screenshot](https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen3.png?raw=true)
-
-![App Screenshot](https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen4.png?raw=true)
+ 
+<p align="center">
+  <img src="https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/cover.png?raw=true">
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen1.png?raw=true">
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen2.png?raw=true">
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen3.png?raw=true">
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/HamzaKhan07/QuickPark-app/blob/main/outputs/Screen4.png?raw=true">
+  <br>
+  <br>
+  <br>
+</p>
 
 
 
