@@ -14,12 +14,10 @@ The function is divided into two stages:
 The CCTV camera on one side will capture the whole parking slot area.
 It will continously capture the frames of the parking slot and will send it on Cloud.
 Over Cloud and special Algorithm is implemented which identifies the
-vacant and occupied parking slots and send the data to receivers.
-For demonstration, we have created and Python script and given it a parking lot footage.
+vacant and occupied parking slots and send the result data to receivers.
+For demonstration, we have created a Python script and given it a parking lot footage as input.
 The program figures out the vacant and occupied parking slots in real time.
-The program continously sends the results about the occupacy of parking slots to Cloud, more specifically to Cloud Firestore of Firebase over frequent intervals. The data from the 
-cloud is fetched by the Front-end app and the parking status of specified slots
-will be updated in Real-time.
+The program continously sends the results about the occupacy of parking slots to Cloud, more specifically to Cloud Firestore of Firebase over frequent intervals. Then the data from the cloud is fetched by the Front-end app and the parking status of specified slots is updated in Real-time.
   
 **2 :- Displaying results in Front-end app**
 
@@ -39,6 +37,9 @@ user get a clear picture of which slots are occupied and which slots are free.
 - Real-time Parking Slot Updates.
 - Fully-Scalable
 
+## 📷 Demo
+
+https://user-images.githubusercontent.com/63296231/173199040-398c96e5-db74-4b0e-899d-aab4c0edefc8.mp4
 
 
 ## 📷 Screenshots
