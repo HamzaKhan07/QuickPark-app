@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092317369571",
+    "project_id": "quickpark-8b791",
+    "storage_bucket": "quickpark-8b791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092317369571:android:afdc3d51e91cdfa2b061d6",
+        "android_client_info": {
+          "package_name": "com.example.quick_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092317369571-ch6ugjugjo13rgqrtdbd2aaaottn7s0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxeqzslF1b2mxD-oI2zBXq3zf7o_r8tS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092317369571-ch6ugjugjo13rgqrtdbd2aaaottn7s0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
