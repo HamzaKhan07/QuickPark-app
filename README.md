@@ -9,7 +9,7 @@ in a particular area easily.
 
 The function is divided into two stages:
 
-**1 :- Capturing the Parking Lot and Figuring out the Vacant and Occupied Slots.**
+**1: Capturing the Parking Lot and Figuring out the Vacant and Occupied Slots.**
 
 The CCTV camera on one side will capture the whole parking slot area.
 It will continously capture the frames of the parking slot and will send it on Cloud.
@@ -19,7 +19,7 @@ For demonstration, we have created a Python script and given it a parking lot fo
 The program figures out the vacant and occupied parking slots in real time.
 The program continously sends the results about the occupacy of parking slots to Cloud, more specifically to Cloud Firestore of Firebase over frequent intervals. Then the data from the cloud is fetched by the Front-end app and the parking status of specified slots is updated in Real-time.
   
-**2 :- Displaying results in Front-end app**
+**2- Displaying results in Front-end app**
 
 The Front-end app will continously listen to the changes in the Cloud using StremBuilder in Flutter. 
 Once the status of a particular parking slot is updated, it will be marked in UI so that
