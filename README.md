@@ -35,7 +35,7 @@ user get a clear picture of which slots are occupied and which slots are free.
 - Beautiful and Elegant UI.
 - User Authentication.
 - Real-time Parking Slot Updates.
-- Fully-Scalable
+- Fully-Scalable.
 
 ## 📷 Demo
 
