@@ -9,7 +9,7 @@ in a particular area easily.
 
 The function is divided into two stages:
 
-**1:- Capturing the Parking Lot and Figuring out the Vacant and Occupied Slots.**
+**1: Capturing the Parking Lot and Figuring out the Vacant and Occupied Slots.**
 
 The CCTV camera on one side will capture the whole parking slot area.
 It will continously capture the frames of the parking slot and will send it on Cloud.
