@@ -1,5 +1,5 @@
 
-# QuickPark 🅿️ ⚡.
+# QuickPark 🅿️ ⚡
 
 Finding a vacant spot in a parking lot is a tough ask. So in order to solve this 
 problem "QuickPark" is created.
