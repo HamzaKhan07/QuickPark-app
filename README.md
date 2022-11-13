@@ -7,7 +7,7 @@ problem "QuickPark" is created.
 QuickPark is a mobile app which helps users identify the vacant parking slots
 in a particular area easily.
 
-The function is divided into two stages
+The function is divided into two stages:
 
 **1: Capturing the Parking Lot and Figuring out the Vacant and Occupied Slots.**
 
