@@ -5,7 +5,7 @@ Finding a vacant spot in a parking lot is a tough ask. So in order to solve this
 problem "QuickPark" is created.
 
 QuickPark is a mobile app which helps users identify the vacant parking slots
-in a particular area easily.
+in a particular area easily
 
 The function is divided into two stages:
 
